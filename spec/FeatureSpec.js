@@ -13,6 +13,4 @@ describe('Feature Test:', function(){
     plane.land(airport);
     expect(airport.planes()).toContain(plane);
   });
-
-  
 });

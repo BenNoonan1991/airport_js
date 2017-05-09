@@ -1,3 +1,4 @@
-'use script';
+console.log('hello')
+'use strict';
 
 function Plane(){}
